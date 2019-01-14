@@ -1,4 +1,4 @@
-# TailoredOrdinalRegress
+# WeaklySupervisedRegressor
 
 
 ## The *Data* folder contains all raw data(including features and labels)
