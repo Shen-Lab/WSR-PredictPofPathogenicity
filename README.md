@@ -33,13 +33,19 @@ Pathogenic - 5
 * Files ending with _clean_ only contains feauture matrix
 * Files without _clean_ additionally contains variant names and header information
 
-## Data revision
+## Revision data set
 The new data set collected for revision process is in folder /data_revision
 #### New genes
-We extended the scale of gene candidates to general genes availble in ClinVar
-dataset. The statistics for new gene set is:
-* Benign - 
-* Likely Benign - 
-* Uncertain - 
-* Likely Pathogenic
+We extended the scale of gene candidates to general genes availble in ClinVar dataset. The statistics for new gene set is shown below. For more details, check the file **SI\_new\_genes\_stat.xlsx**.
 
+* Benign - 460(9.52%)
+* Likely Benign - 694(14.36%)
+* Uncertain - 2806(58.05%)
+* Likely Pathogenic - 282(5.83%)
+* Pathogenic - 592(12.25%)
+* total - 4834
+
+In order to test generalization of the model on genes sharing no connection with BRCA1/2, the 9 old property features for this new gene set are used to train the model and compared with the performance of model trained on same feature set of old genes.    
+
+#### New features
+Besides our old property features from Mutpred2, we ensambled more dbNSFP database, 
