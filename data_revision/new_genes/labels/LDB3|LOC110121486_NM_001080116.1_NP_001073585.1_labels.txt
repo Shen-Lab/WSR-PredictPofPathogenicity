@@ -1,0 +1,2 @@
+# Variant	Label
+A116T	3

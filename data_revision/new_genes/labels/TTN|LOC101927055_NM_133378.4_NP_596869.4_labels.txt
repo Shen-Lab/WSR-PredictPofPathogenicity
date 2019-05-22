@@ -1,0 +1,3 @@
+# Variant	Label
+H1246L	3
+S1295L	2

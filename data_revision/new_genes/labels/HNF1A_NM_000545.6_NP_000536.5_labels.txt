@@ -1,0 +1,6 @@
+# Variant	Label
+M1V	5
+R200Q	5
+R203H	4
+A276G	4
+H514R	3

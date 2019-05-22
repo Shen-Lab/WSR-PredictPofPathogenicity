@@ -1,0 +1,14 @@
+# Variant	Relative_solvent_accessibility	Allosteric_site	Catalytic_site	Altered Secondary_structure	Altered Stability_and_conformational_flexibility	Altered Special_structural_signatures	Altered Macromolecular_binding	Altered Metal_binding	Altered PTM_site
+H215R	0.12	0.01	0.00	0.26	0.24	0.25	0.26	0.08	0.31
+R404Q	0.16	0.11	0.00	0.26	0.11	0.28	0.28	0.12	0.11
+T511M	0.02	0.02	0.00	0.26	0.26	0.26	0.13	0.06	0.10
+R518Q	0.03	0.02	0.00	0.26	0.25	0.26	0.10	0.03	0.16
+I858V	0.19	0.03	0.00	0.25	0.24	0.25	0.24	0.18	0.11
+D874V	0.30	0.07	0.00	0.26	0.24	0.11	0.26	0.28	0.13
+G992R	0.05	0.01	0.00	0.25	0.28	0.33	0.31	0.02	0.17
+G992R	0.05	0.01	0.00	0.25	0.28	0.33	0.31	0.02	0.17
+A1035V	0.01	0.03	0.00	0.22	0.15	0.28	0.26	0.03	0.14
+M1142T	0.00	0.04	0.00	0.28	0.06	0.12	0.18	0.01	0.01
+R1186H	0.06	0.07	0.00	0.25	0.26	0.09	0.16	0.15	0.14
+T1205K	0.09	0.08	0.00	0.25	0.14	0.07	0.17	0.05	0.09
+R1266Q	0.06	0.00	0.00	0.25	0.26	0.15	0.19	0.01	0.25

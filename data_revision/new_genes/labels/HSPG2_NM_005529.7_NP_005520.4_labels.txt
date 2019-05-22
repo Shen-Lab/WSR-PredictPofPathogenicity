@@ -1,0 +1,6 @@
+# Variant	Label
+N957H	2
+A1503V	1
+R1919C	2
+L2980H	2
+S2995G	2

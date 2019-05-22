@@ -1,0 +1,3 @@
+# Variant	Label
+S182L	3
+M193T	3

@@ -1,0 +1,3 @@
+# Variant	Relative_solvent_accessibility	Allosteric_site	Catalytic_site	Altered Secondary_structure	Altered Stability_and_conformational_flexibility	Altered Special_structural_signatures	Altered Macromolecular_binding	Altered Metal_binding	Altered PTM_site
+Q97R	0.00	0.00	0.00	0.24	0.27	0.05	0.12	0.00	0.35
+R268C	0.03	0.06	0.00	0.27	0.35	0.04	0.30	0.42	0.20

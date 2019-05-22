@@ -1,0 +1,6 @@
+# Variant	Label
+S549R	5
+G551D	5
+A559T	5
+R560K	5
+R560T	5

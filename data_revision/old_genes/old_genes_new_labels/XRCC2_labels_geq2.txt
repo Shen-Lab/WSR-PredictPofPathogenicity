@@ -1,0 +1,7 @@
+# Variant	Label
+Y223H	3
+I221T	3
+M199T	3
+T194A	3
+L145V	3
+V39M	3

@@ -1,0 +1,3 @@
+# Variant	Label
+R151W	3
+S202P	1

@@ -1,0 +1,3 @@
+# Variant	Label
+E529D	2
+N1194S	2

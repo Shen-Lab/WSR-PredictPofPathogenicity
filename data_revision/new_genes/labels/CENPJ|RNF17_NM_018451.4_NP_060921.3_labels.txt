@@ -1,0 +1,3 @@
+# Variant	Label
+T1307I	3
+V1308I	3

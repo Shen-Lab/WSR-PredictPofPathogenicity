@@ -1,0 +1,7 @@
+# Variant	Label
+G12C	5
+G12V	5
+G13D	5
+G13V	5
+A134V	3
+R169W	3

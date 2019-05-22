@@ -1,0 +1,5 @@
+# Variant	Label
+I705L	1
+D2304Y	3
+R2380Q	3
+T2478A	3

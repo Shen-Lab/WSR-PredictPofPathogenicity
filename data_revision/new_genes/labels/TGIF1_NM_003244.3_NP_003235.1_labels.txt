@@ -1,0 +1,3 @@
+# Variant	Label
+P163L	2
+P163S	2

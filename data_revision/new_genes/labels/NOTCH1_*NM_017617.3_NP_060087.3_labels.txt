@@ -1,0 +1,2 @@
+# Variant	Label
+P284L	3

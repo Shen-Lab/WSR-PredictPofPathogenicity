@@ -1,0 +1,7 @@
+# Variant	Label
+R405Q	3
+D380G	3
+V306A	2
+H305Q	3
+T141I	2
+G3R	2

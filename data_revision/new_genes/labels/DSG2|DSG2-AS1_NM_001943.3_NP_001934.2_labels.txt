@@ -1,0 +1,2 @@
+# Variant	Label
+E713K	2

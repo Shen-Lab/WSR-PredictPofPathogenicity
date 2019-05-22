@@ -1,0 +1,4 @@
+# Variant	Label
+G39V	1
+F402L	1
+V901L	2

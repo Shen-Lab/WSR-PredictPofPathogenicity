@@ -1,0 +1,6 @@
+# Variant	Label
+G64A	3
+P94L	2
+E170K	2
+I371T	3
+R553C	3

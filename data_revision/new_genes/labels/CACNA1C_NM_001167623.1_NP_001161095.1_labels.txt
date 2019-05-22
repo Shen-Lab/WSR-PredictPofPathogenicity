@@ -1,0 +1,2 @@
+# Variant	Label
+G406R	5

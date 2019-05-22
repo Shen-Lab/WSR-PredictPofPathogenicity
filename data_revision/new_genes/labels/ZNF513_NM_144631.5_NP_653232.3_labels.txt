@@ -1,0 +1,2 @@
+# Variant	Label
+A97V	3

@@ -1,0 +1,6 @@
+# Variant	Label
+P123L	3
+S140L	3
+N160S	3
+T204I	3
+K326R	3

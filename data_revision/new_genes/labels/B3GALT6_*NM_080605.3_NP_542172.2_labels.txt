@@ -1,0 +1,4 @@
+# Variant	Label
+E174D	1
+G195R	3
+G196V	3

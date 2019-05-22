@@ -1,0 +1,4 @@
+# Variant	Label
+R5777C	3
+A6289P	1
+I6546V	1

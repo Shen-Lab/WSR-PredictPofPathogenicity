@@ -1,0 +1,5 @@
+# Variant	Label
+R40C	5
+R63G	5
+R178C	5
+R178H	5

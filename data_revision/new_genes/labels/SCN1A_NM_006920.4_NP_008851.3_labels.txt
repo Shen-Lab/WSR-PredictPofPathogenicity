@@ -1,0 +1,6 @@
+# Variant	Label
+F90S	5
+R101Q	5
+R101W	5
+W190R	5
+R377Q	5

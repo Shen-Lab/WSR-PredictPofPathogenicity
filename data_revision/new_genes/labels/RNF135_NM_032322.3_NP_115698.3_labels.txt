@@ -1,0 +1,2 @@
+# Variant	Label
+R115K	2

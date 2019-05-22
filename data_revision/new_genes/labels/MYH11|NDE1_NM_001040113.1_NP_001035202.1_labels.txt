@@ -1,0 +1,3 @@
+# Variant	Label
+A1241T	2
+T1918M	3

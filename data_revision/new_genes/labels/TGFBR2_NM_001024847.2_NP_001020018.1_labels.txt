@@ -1,0 +1,2 @@
+# Variant	Label
+A354T	3

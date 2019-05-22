@@ -1,0 +1,6 @@
+# Variant	Label
+P31T	2
+R820C	3
+R931H	2
+V1581I	2
+R1959Q	3

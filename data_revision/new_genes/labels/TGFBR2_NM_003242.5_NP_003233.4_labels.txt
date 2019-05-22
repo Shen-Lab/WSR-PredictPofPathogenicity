@@ -1,0 +1,8 @@
+# Variant	Label
+F186I	3
+A217P	3
+R254C	3
+R356P	5
+R403H	2
+P406L	3
+Y470D	5

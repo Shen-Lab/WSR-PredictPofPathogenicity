@@ -1,0 +1,2 @@
+# Variant	Label
+E818K	3

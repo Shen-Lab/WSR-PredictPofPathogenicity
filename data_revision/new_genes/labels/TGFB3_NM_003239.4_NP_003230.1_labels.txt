@@ -1,0 +1,4 @@
+# Variant	Label
+L174H	3
+E244K	3
+R300Q	4

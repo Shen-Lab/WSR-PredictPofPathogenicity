@@ -1,0 +1,3 @@
+# Variant	Label
+V215I	3
+P2150L	3

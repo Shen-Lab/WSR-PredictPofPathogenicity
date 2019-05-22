@@ -1,0 +1,6 @@
+# Variant	Label
+G76A	3
+I2268T	3
+M5105T	3
+D5408H	3
+R6262H	3

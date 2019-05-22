@@ -1,0 +1,12 @@
+# Variant	Relative_solvent_accessibility	Allosteric_site	Catalytic_site	Altered Secondary_structure	Altered Stability_and_conformational_flexibility	Altered Special_structural_signatures	Altered Macromolecular_binding	Altered Metal_binding	Altered PTM_site
+T60M	0.05	0.07	0.05	0.29	0.15	0.33	0.20	0.01	0.04
+R126H	0.00	0.25	0.20	0.30	0.07	0.06	0.13	0.01	0.09
+K255T	0.01	0.00	0.00	0.25	0.30	0.08	0.09	0.01	0.19
+R264C	0.00	0.01	0.00	0.27	0.12	0.06	0.16	0.00	0.12
+A275T	0.00	0.03	0.01	0.26	0.11	0.03	0.07	0.01	0.02
+T295M	0.28	0.17	0.14	0.27	0.11	0.35	0.28	0.22	0.12
+G314S	0.03	0.13	0.07	0.26	0.11	0.26	0.31	0.10	0.07
+S324L	0.02	0.04	0.01	0.30	0.09	0.07	0.09	0.06	0.02
+R333W	0.02	0.08	0.04	0.27	0.17	0.07	0.16	0.06	0.08
+L336V	0.02	0.08	0.04	0.28	0.16	0.07	0.14	0.02	0.06
+G466S	0.10	0.06	0.00	0.26	0.31	0.16	0.15	0.11	0.13

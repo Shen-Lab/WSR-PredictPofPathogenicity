@@ -1,0 +1,2 @@
+# Variant	Relative_solvent_accessibility	Allosteric_site	Catalytic_site	Altered Secondary_structure	Altered Stability_and_conformational_flexibility	Altered Special_structural_signatures	Altered Macromolecular_binding	Altered Metal_binding	Altered PTM_site
+I874S	0.00	0.00	0.00	0.24	0.48	0.08	0.18	0.00	0.59

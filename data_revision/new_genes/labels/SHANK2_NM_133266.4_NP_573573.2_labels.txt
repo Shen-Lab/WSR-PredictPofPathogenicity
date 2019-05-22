@@ -1,0 +1,2 @@
+# Variant	Label
+I1076T	2

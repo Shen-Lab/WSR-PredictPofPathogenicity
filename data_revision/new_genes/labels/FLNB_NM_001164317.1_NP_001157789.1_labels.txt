@@ -1,0 +1,3 @@
+# Variant	Label
+M270V	3
+D623V	3

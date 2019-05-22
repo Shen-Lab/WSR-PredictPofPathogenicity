@@ -1,0 +1,3 @@
+# Variant	Label
+F3125L	2
+D3253A	2

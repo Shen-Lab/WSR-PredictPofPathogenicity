@@ -1,0 +1,3 @@
+# Variant	Label
+V1538I	3
+E1878Q	3

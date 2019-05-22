@@ -1,0 +1,4 @@
+# Variant	Relative_solvent_accessibility	Allosteric_site	Catalytic_site	Altered Secondary_structure	Altered Stability_and_conformational_flexibility	Altered Special_structural_signatures	Altered Macromolecular_binding	Altered Metal_binding	Altered PTM_site
+P289S	0.13	0.05	0.01	0.25	0.22	0.22	0.28	0.10	0.11
+R357C	0.36	0.14	0.00	0.26	0.17	0.32	0.31	0.18	0.23
+S824L	0.11	0.20	0.11	0.26	0.15	0.06	0.32	0.13	0.09

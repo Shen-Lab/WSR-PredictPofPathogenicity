@@ -1,0 +1,6 @@
+# Variant	Relative_solvent_accessibility	Allosteric_site	Catalytic_site	Altered Secondary_structure	Altered Stability_and_conformational_flexibility	Altered Special_structural_signatures	Altered Macromolecular_binding	Altered Metal_binding	Altered PTM_site
+F90S	0.27	0.10	0.01	0.26	0.21	0.07	0.28	0.19	0.18
+R101Q	0.20	0.13	0.08	0.28	0.15	0.07	0.34	0.06	0.21
+R101W	0.24	0.13	0.08	0.29	0.15	0.07	0.47	0.06	0.23
+W190R	0.22	0.15	0.05	0.27	0.15	0.27	0.27	0.23	0.07
+R377Q	0.06	0.06	0.00	0.26	0.09	0.20	0.25	0.02	0.08

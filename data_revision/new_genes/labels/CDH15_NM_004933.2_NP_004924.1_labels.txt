@@ -1,0 +1,2 @@
+# Variant	Label
+L240F	1

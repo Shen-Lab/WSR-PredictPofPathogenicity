@@ -1,0 +1,2 @@
+# Variant	Label
+S343N	2

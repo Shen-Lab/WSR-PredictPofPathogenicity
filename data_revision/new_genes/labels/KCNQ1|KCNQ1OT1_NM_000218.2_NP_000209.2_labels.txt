@@ -1,0 +1,2 @@
+# Variant	Label
+M476V	3

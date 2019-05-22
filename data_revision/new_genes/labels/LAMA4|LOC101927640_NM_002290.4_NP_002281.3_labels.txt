@@ -1,0 +1,3 @@
+# Variant	Label
+D29H	2
+I36V	2

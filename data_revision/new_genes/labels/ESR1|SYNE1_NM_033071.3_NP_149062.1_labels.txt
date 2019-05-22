@@ -1,0 +1,6 @@
+# Variant	Label
+R8687Q	1
+G8689S	1
+R8690C	2
+L8693M	1
+S8729C	3

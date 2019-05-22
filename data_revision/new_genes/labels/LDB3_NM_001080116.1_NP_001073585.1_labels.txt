@@ -1,0 +1,3 @@
+# Variant	Label
+Q97R	3
+R268C	3

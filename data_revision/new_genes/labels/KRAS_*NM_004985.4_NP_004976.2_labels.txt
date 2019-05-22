@@ -1,0 +1,9 @@
+# Variant	Label
+V14I	5
+Q22R	5
+P34L	5
+I36M	4
+T58I	5
+G60R	5
+Y71D	4
+Y157C	3

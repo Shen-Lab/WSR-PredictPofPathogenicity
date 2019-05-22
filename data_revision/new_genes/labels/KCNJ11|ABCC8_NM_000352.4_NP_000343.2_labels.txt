@@ -1,0 +1,2 @@
+# Variant	Label
+V1572I	2

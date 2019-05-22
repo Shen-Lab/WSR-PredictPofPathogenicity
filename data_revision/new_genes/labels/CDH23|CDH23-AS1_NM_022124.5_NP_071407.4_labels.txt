@@ -1,0 +1,3 @@
+# Variant	Label
+Q58R	1
+V87L	3

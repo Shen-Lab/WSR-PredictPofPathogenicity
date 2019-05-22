@@ -1,0 +1,5 @@
+# Variant	Label
+R2516C	4
+L2769F	2
+E2771K	5
+A3985V	3

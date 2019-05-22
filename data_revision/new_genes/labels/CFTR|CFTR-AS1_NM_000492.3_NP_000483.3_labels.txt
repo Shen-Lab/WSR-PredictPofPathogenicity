@@ -1,0 +1,8 @@
+# Variant	Label
+A455E	5
+L467P	5
+G480C	5
+H484Y	3
+S485T	3
+S492F	5
+V520F	5

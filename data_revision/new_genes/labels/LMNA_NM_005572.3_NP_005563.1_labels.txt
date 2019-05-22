@@ -1,0 +1,5 @@
+# Variant	Label
+R99S	3
+R397C	3
+R541P	5
+R571H	2

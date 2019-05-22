@@ -1,0 +1,4 @@
+# Variant	Relative_solvent_accessibility	Allosteric_site	Catalytic_site	Altered Secondary_structure	Altered Stability_and_conformational_flexibility	Altered Special_structural_signatures	Altered Macromolecular_binding	Altered Metal_binding	Altered PTM_site
+T1277S	0.18	0.09	0.00	0.26	0.19	0.30	0.25	0.12	0.21
+R2747C	0.00	0.00	0.00	0.26	0.15	0.02	0.21	0.01	0.31
+R3659H	0.02	0.03	0.00	0.26	0.26	0.03	0.21	0.05	0.25

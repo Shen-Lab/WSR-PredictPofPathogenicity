@@ -1,0 +1,2 @@
+# Variant	Label
+G385S	2

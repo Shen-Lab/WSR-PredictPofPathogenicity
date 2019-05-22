@@ -1,0 +1,4 @@
+# Variant	Label
+D666V	5
+D719G	5
+S761L	3

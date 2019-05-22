@@ -1,0 +1,2 @@
+# Variant	Label
+I293V	2

@@ -1,0 +1,2 @@
+# Variant	Relative_solvent_accessibility	Allosteric_site	Catalytic_site	Altered Secondary_structure	Altered Stability_and_conformational_flexibility	Altered Special_structural_signatures	Altered Macromolecular_binding	Altered Metal_binding	Altered PTM_site
+D1572Y	0.17	0.01	0.00	0.26	0.21	0.16	0.30	0.39	0.15

@@ -1,0 +1,7 @@
+# Variant	Label
+I101V	3
+M432V	2
+V493M	3
+L540F	2
+T626I	2
+A1088T	3

@@ -1,0 +1,4 @@
+# Variant	Label
+T271S	3
+A590S	3
+A1212T	3

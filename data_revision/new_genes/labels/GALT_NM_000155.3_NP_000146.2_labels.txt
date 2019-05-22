@@ -1,0 +1,8 @@
+# Variant	Label
+R67C	5
+H68P	4
+L71V	3
+M129L	4
+R148Q	5
+R259W	5
+H301R	3

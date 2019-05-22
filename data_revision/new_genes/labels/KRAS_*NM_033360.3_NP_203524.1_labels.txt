@@ -1,0 +1,3 @@
+# Variant	Label
+K5E	4
+K5N	5

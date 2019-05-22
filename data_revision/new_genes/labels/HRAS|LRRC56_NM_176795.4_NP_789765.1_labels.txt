@@ -1,0 +1,4 @@
+# Variant	Label
+G12S	5
+T58I	5
+I93V	3

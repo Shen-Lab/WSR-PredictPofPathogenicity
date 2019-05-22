@@ -1,0 +1,3 @@
+# Variant	Label
+V136M	2
+L458F	2

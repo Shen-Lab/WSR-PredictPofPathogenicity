@@ -1,0 +1,6 @@
+# Variant	Label
+E1426K	3
+K1459N	2
+S1491C	1
+A1637T	3
+R1712Q	4

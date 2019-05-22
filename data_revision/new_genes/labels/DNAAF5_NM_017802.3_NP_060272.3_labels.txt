@@ -1,0 +1,4 @@
+# Variant	Label
+V632A	1
+R743K	1
+Q855R	2

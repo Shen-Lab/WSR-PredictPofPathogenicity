@@ -1,0 +1,4 @@
+# Variant	Label
+T1277S	3
+R2747C	3
+R3659H	3

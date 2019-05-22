@@ -1,0 +1,4 @@
+# Variant	Label
+G66D	5
+R92C	5
+I269V	3

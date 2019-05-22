@@ -1,0 +1,2 @@
+# Variant	Relative_solvent_accessibility	Allosteric_site	Catalytic_site	Altered Secondary_structure	Altered Stability_and_conformational_flexibility	Altered Special_structural_signatures	Altered Macromolecular_binding	Altered Metal_binding	Altered PTM_site
+S1199L	0.06	0.02	0.00	0.25	0.16	0.08	0.17	0.08	0.08

@@ -1,0 +1,5 @@
+# Variant	Label
+H34R	2
+R357W	3
+A415T	2
+K432E	3

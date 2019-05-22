@@ -1,0 +1,3 @@
+# Variant	Label
+G621S	3
+G635R	3

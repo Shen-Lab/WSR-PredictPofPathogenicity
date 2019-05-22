@@ -1,0 +1,7 @@
+# Variant	Label
+T751I	3
+G759R	3
+R773K	2
+R966T	3
+S1059T	3
+S1098C	3

@@ -1,0 +1,6 @@
+# Variant	Label
+G13C	5
+A59T	4
+N86T	1
+K117R	5
+P174S	1

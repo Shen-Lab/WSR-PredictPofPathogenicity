@@ -1,0 +1,2 @@
+# Variant	Label
+E636K	3

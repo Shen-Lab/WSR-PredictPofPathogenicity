@@ -1,0 +1,4 @@
+# Variant	Label
+I1665T	1
+G1671D	3
+E1918K	3

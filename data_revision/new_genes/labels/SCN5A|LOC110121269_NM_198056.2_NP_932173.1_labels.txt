@@ -1,0 +1,6 @@
+# Variant	Label
+R986W	3
+A997D	3
+C1004R	3
+P1021S	3
+T1069M	3

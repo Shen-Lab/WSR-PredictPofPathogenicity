@@ -1,0 +1,7 @@
+# Variant	Label
+R43L	3
+R298C	3
+V591M	3
+R651H	1
+T1096M	3
+R1108Q	3

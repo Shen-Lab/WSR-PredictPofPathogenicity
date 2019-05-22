@@ -1,0 +1,4 @@
+# Variant	Label
+S230G	1
+T699A	1
+S1008L	2

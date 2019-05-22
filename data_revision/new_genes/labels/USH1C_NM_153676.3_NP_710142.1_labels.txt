@@ -1,0 +1,5 @@
+# Variant	Label
+R63Q	3
+R731Q	3
+A804T	3
+E819D	2

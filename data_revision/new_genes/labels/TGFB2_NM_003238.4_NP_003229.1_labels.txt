@@ -1,0 +1,3 @@
+# Variant	Label
+Q79R	3
+R299Q	5

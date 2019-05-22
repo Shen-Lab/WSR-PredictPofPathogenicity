@@ -1,0 +1,3 @@
+# Variant	Label
+A572S	3
+R1305H	3

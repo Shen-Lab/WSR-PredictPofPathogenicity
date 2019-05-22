@@ -1,0 +1,2 @@
+# Variant	Label
+R747W	3

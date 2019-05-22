@@ -1,0 +1,7 @@
+# Variant	Label
+R230C	5
+R330C	5
+L515V	3
+V629L	3
+V640M	3
+P871A	3

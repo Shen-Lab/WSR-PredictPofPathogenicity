@@ -1,0 +1,3 @@
+# Variant	Label
+P532L	3
+W839C	3

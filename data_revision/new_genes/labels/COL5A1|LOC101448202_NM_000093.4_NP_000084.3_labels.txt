@@ -1,0 +1,6 @@
+# Variant	Label
+R1585W	3
+D1595N	3
+E1599Q	2
+G1676R	3
+N1699K	3

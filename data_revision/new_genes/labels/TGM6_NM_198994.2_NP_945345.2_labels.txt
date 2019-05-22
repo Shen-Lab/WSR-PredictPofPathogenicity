@@ -1,0 +1,4 @@
+# Variant	Label
+M58V	1
+G243S	3
+E406K	2

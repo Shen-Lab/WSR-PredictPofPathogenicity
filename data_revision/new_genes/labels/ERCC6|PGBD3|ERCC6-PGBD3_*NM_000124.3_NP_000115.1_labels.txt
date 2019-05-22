@@ -1,0 +1,4 @@
+# Variant	Label
+G399D	1
+F427S	3
+G446D	2

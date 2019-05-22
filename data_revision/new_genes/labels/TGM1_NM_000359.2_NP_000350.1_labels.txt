@@ -1,0 +1,6 @@
+# Variant	Label
+R143C	5
+G278R	5
+G291D	5
+R307G	5
+R315L	5

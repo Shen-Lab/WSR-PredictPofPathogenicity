@@ -1,0 +1,3 @@
+# Variant	Label
+C260W	3
+H268Y	3

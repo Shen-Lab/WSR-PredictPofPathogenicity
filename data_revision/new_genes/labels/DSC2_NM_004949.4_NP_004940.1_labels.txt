@@ -1,0 +1,4 @@
+# Variant	Label
+P289S	3
+R357C	3
+S824L	3

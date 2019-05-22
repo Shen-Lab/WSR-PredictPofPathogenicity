@@ -1,0 +1,2 @@
+# Variant	Label
+S1199L	5

@@ -1,0 +1,4 @@
+# Variant	Label
+C2535Y	3
+C2593Y	3
+R2635C	3

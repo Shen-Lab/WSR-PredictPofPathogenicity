@@ -1,0 +1,2 @@
+# Variant	Label
+R2039W	3

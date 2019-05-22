@@ -1,0 +1,4 @@
+# Variant	Relative_solvent_accessibility	Allosteric_site	Catalytic_site	Altered Secondary_structure	Altered Stability_and_conformational_flexibility	Altered Special_structural_signatures	Altered Macromolecular_binding	Altered Metal_binding	Altered PTM_site
+G39V	0.03	0.01	0.00	0.26	0.23	0.09	0.04	0.01	0.14
+F402L	0.00	0.04	0.00	0.26	0.10	0.04	0.09	0.04	0.01
+V901L	0.03	0.01	0.00	0.26	0.18	0.01	0.06	0.03	0.04

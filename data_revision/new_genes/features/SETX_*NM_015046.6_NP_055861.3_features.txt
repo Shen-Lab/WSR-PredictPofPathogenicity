@@ -1,0 +1,5 @@
+# Variant	Relative_solvent_accessibility	Allosteric_site	Catalytic_site	Altered Secondary_structure	Altered Stability_and_conformational_flexibility	Altered Special_structural_signatures	Altered Macromolecular_binding	Altered Metal_binding	Altered PTM_site
+I705L	0.02	0.01	0.00	0.26	0.27	0.02	0.24	0.01	0.15
+D2304Y	0.09	0.07	0.01	0.25	0.28	0.13	0.31	0.11	0.21
+R2380Q	0.08	0.12	0.10	0.26	0.20	0.05	0.27	0.23	0.17
+T2478A	0.00	0.00	0.00	0.24	0.27	0.10	0.24	0.01	0.70

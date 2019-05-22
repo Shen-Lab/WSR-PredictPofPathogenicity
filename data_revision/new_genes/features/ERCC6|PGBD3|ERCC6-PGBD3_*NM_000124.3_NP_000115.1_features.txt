@@ -1,0 +1,4 @@
+# Variant	Relative_solvent_accessibility	Allosteric_site	Catalytic_site	Altered Secondary_structure	Altered Stability_and_conformational_flexibility	Altered Special_structural_signatures	Altered Macromolecular_binding	Altered Metal_binding	Altered PTM_site
+G399D	0.02	0.00	0.00	0.25	0.24	0.06	0.20	0.02	0.18
+F427S	0.03	0.00	0.00	0.25	0.28	0.06	0.22	0.02	1.00
+G446D	0.01	0.00	0.00	0.26	0.27	0.05	0.12	0.01	0.18

@@ -1,0 +1,4 @@
+# Variant	Label
+S58L	5
+R216C	5
+R316W	5

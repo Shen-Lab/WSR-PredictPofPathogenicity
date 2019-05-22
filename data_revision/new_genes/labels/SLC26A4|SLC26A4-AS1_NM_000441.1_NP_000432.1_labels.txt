@@ -1,0 +1,4 @@
+# Variant	Label
+P10T	3
+S28R	5
+R43H	3

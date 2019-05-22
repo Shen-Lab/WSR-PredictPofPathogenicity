@@ -1,0 +1,3 @@
+# Variant	Label
+V14M	2
+L59P	2

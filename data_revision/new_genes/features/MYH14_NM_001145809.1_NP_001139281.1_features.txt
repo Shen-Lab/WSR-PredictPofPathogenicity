@@ -1,0 +1,6 @@
+# Variant	Relative_solvent_accessibility	Allosteric_site	Catalytic_site	Altered Secondary_structure	Altered Stability_and_conformational_flexibility	Altered Special_structural_signatures	Altered Macromolecular_binding	Altered Metal_binding	Altered PTM_site
+P31T	0.01	0.00	0.00	0.26	0.23	0.06	0.26	0.01	0.15
+R820C	0.29	0.32	0.06	0.25	0.16	0.10	0.29	0.11	0.25
+R931H	0.02	0.00	0.00	0.07	0.19	0.02	0.08	0.01	0.13
+V1581I	0.07	0.04	0.00	0.25	0.30	0.02	0.26	0.08	0.20
+R1959Q	0.02	0.02	0.00	0.25	0.17	0.01	0.28	0.01	0.10

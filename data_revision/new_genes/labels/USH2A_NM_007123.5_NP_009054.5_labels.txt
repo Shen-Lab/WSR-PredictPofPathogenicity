@@ -1,0 +1,3 @@
+# Variant	Label
+N820S	3
+H1015Q	3
