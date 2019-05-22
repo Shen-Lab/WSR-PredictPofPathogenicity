@@ -45,9 +45,11 @@ We extended the scale of gene candidates to general genes availble in ClinVar da
 * Pathogenic - 592(12.25%)
 * total - 4834
 
-In order to test generalization of the model on genes sharing no connection with BRCA1/2, the 9 old property features for this new gene set are used to train the model and compared with the performance of model trained on same feature set of old genes.    
+In order to test generalization of the model on genes sharing no connection with BRCA1/2, the 9 old property features for this new gene set are used to train the model and compared with the performance of model trained on same feature set of old genes. Experiment shows comparable performance indicating good generalization of our model.    
 
 #### New features
 Besides our old property features from Mutpred2, we ensambled more from dbNSFP database, including 6 pathogenicity scores and 8 conservation scores. 
 * 6 pathogenicity scores: SIFT_score, Polyphen2_HDIV_score, Polyphen2_HVAR_score, PROVEAN_score, REVEL_score, PrimateAI_score
 * 8 conservation scores: GERP++\_RS, phyloP100way_vertebrate, phyloP30way_mammalian, phyloP17way_primate, phastCons100way_vertebrate, phastCons30way_mammalian, phastCons17way_primate, bStatistic
+
+To test whether we can have gain of performance if more features are included, this new 14 features is appended to old 9 features on old gene set and fed into the model. The result shows improvement over model trained on only 9 old features.  
