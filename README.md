@@ -32,3 +32,14 @@ Pathogenic - 5
 * Each file contains data for one gene. 
 * Files ending with _clean_ only contains feauture matrix
 * Files without _clean_ additionally contains variant names and header information
+
+## Data revision
+The new data set collected for revision process is in folder /data_revision
+#### New genes
+We extended the scale of gene candidates to general genes availble in ClinVar
+dataset. The statistics for new gene set is:
+* Benign - 
+* Likely Benign - 
+* Uncertain - 
+* Likely Pathogenic
+
